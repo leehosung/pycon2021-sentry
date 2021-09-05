@@ -17,4 +17,3 @@ sentry_sdk.init(
 set_tag("birthday", "2021-10-02")
 
 division_by_zero = 1 / 0
-
